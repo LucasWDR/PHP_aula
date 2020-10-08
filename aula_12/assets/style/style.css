@@ -1,0 +1,55 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+  
+    
+    }
+
+
+header{
+    
+         background-color: rgb(3, 94, 89);
+         text-align: center;
+         font-size: 30px;
+         height: 200px;
+         padding-top:30px;
+         vertical-align: middle;
+         color:#ffff;
+
+    }
+
+ nav{
+        
+        background-color: coral;
+        padding-top:30px;
+        height: 450px;
+        padding-left:30px;
+
+    
+    
+    }
+
+article{
+      
+        text-align: center;
+        padding-top: 30px;
+        background-color:rgb(163, 156, 158);
+        
+    }
+
+
+
+footer{
+   
+        background-color:black;
+        text-align: center;
+        color: white;
+        height: 300px;
+        clear: auto;
+        
+        
+        
+    
+    }
+
+ 
